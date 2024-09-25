@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-24T09:56:51 IST" name="Suite" finished-at="2024-09-24T09:56:54 IST" duration-ms="3462">
+    <groups>
+    </groups>
+    <test started-at="2024-09-24T09:56:51 IST" name="Test" finished-at="2024-09-24T09:56:54 IST" duration-ms="3462">
+      <class name="pageobjectmodelclass.ProductTestClass">
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:pageobjectmodelclass.ProductTestClass@742ff096]" started-at="2024-09-24T09:56:45 IST" name="initBrowser" finished-at="2024-09-24T09:56:51 IST" duration-ms="5648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method is-config="true" signature="CreateObject()[pri:0, instance:pageobjectmodelclass.ProductTestClass@742ff096]" started-at="2024-09-24T09:56:51 IST" name="CreateObject" finished-at="2024-09-24T09:56:51 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateObject -->
+        <test-method signature="ValidatingClickingOnProduct()[pri:0, instance:pageobjectmodelclass.ProductTestClass@742ff096]" started-at="2024-09-24T09:56:51 IST" name="ValidatingClickingOnProduct" finished-at="2024-09-24T09:56:54 IST" duration-ms="3316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingClickingOnProduct -->
+      </class> <!-- pageobjectmodelclass.ProductTestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
